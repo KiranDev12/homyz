@@ -7,7 +7,7 @@ function Companies() {
         <img src="./prologis.png" alt="" srcset="" />
         <img src="./tower.png" alt="" srcset="" />
         <img src="./equinix.png" alt="" srcset="" />
-        <img src="./realty.png" alt="" srcset="" />
+        <img src="./reality.png" alt="" srcset="" />
       </div>
     </section>
   );
